@@ -1,5 +1,3 @@
-var animal = 'dog'
-
 function myAnimal() {
   // You should not need to modify this function
   return animal
@@ -13,6 +11,8 @@ function yourAnimal() {
   // P.S.: Hard-coding 'cat' below will not work
   return animal
 }
+
+var animal = 'dog'
 
 function add2(n) {
   const two = 2
